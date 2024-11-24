@@ -1,0 +1,107 @@
+{
+  "products": {
+    "Women": [
+      {
+        "image": "./Assets/Images/Products/Women/01.jpeg",
+        "name": "Producto 1",
+        "sku": "12345",
+        "price": 50.0,
+        "comparePrice": 60.0
+      },
+      {
+        "image": "./Assets/Images/Products/Women/02.jpeg",
+        "name": "Producto 2",
+        "sku": "67890",
+        "price": 80.0,
+        "comparePrice": 80.0
+      },
+      {
+        "image": "./Assets/Images/Products/Women/03.jpeg",
+        "name": "Producto 3",
+        "sku": "54321",
+        "price": 40.0,
+        "comparePrice": 50.0
+      },
+      {
+        "image": "./Assets/Images/Products/Women/04.jpeg",
+        "name": "Producto 4",
+        "sku": "54322",
+        "price": 40.0,
+        "comparePrice": 50.0
+      },
+      {
+        "image": "./Assets/Images/Products/Women/05.jpeg",
+        "name": "Producto 5",
+        "sku": "54323",
+        "price": 40.0,
+        "comparePrice": 50.0
+      },
+      {
+        "image": "./Assets/Images/Products/Women/06.jpeg",
+        "name": "Producto 6",
+        "sku": "54341",
+        "price": 40.0,
+        "comparePrice": 50.0
+      }
+    ],
+    "Men": [
+      {
+        "image": "./Assets/Images/Products/Men/01.jpeg",
+        "name": "Producto 4",
+        "sku": "53321",
+        "price": 40.0,
+        "comparePrice": 50.0
+      },
+      {
+        "image": "./Assets/Images/Products/Men/01.jpeg",
+        "name": "Producto 5",
+        "sku": "52421",
+        "price": 40.0,
+        "comparePrice": 50.0
+      },
+      {
+        "image": "./Assets/Images/Products/Men/02.jpeg",
+        "name": "Producto 6",
+        "sku": "54342",
+        "price": 40.0,
+        "comparePrice": 50.0
+      },
+      {
+        "image": "./Assets/Images/Products/Men/03.jpeg",
+        "name": "Producto 7",
+        "sku": "52521",
+        "price": 40.0,
+        "comparePrice": 50.0
+      },
+      {
+        "image": "./Assets/Images/Products/Men/04.jpeg",
+        "name": "Producto 8",
+        "sku": "54253",
+        "price": 40.0,
+        "comparePrice": 50.0
+      },
+      {
+        "image": "./Assets/Images/Products/Men/05.jpeg",
+        "name": "Producto 9",
+        "sku": "54235",
+        "price": 40.0,
+        "comparePrice": 50.0
+      },
+      {
+        "image": "./Assets/Images/Products/Men/06.jpeg",
+        "name": "Producto 10",
+        "sku": "57881",
+        "price": 40.0,
+        "comparePrice": 50.0
+      }
+    ],
+    "Global": [],
+    "Local": []
+  },
+  "coupons": [
+    { "code": "HTV-ERT-DSA", "discount": 10 },
+    { "code": "HJG-ERA-CVV", "discount": 5 },
+    { "code": "CVC-JKH-WQE", "discount": 90 },
+    { "code": "QWE-IOI-QWW", "discount": 2 }
+  ]
+}
