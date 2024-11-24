@@ -268,7 +268,7 @@ const CheckForToIndexButtons = () => {
 
   for (let index = 0; index < ToIndex.length; index++) {
     ToIndex[index].addEventListener("click", () => {
-      window.location.href = "Index.html";
+      window.location.href = "index.html";
     });
   }
 };
